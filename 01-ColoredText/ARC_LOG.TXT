@@ -1,0 +1,6 @@
+DEBUG:Log File Created Successfully
+DEBUG:Class Registered Successfully
+DEBUG:WM_CREATE Recieved
+DEBUG:Window Created
+DEBUG:WM_DESTROY Recieved
+DEBUG:Log File Closed
