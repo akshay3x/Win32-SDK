@@ -152,7 +152,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
 						[3]  H: Access Text Editable Area Of Notepad\n\n\
 						[4]  J: Hide Menubar\n\n\
 						[5]  K: Show Menubar\n\n\
-						[6]  L: Hide Menubar\n\n\
+						[6]  L: Change Window Text\n\n\
 						[7]  M: Minimize Notepad\n\n\
 						[8]  N: Maximize Notepad\n\n\
 						[9]  B: Restore Notepad\n\n\
