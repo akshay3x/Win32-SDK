@@ -1,0 +1,7 @@
+Log File Created
+-----------------
+DEBUG:Class Registerd
+DEBUG:Window Created
+
+---------------------
+DEBUG:Log File Closed
